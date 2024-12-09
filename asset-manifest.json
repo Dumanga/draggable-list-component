@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-draggable-list-component/static/css/main.e6c13ad2.css",
+    "main.js": "/react-draggable-list-component/static/js/main.83cdebb4.js",
+    "static/js/488.6ef24605.chunk.js": "/react-draggable-list-component/static/js/488.6ef24605.chunk.js",
+    "index.html": "/react-draggable-list-component/index.html",
+    "main.e6c13ad2.css.map": "/react-draggable-list-component/static/css/main.e6c13ad2.css.map",
+    "main.83cdebb4.js.map": "/react-draggable-list-component/static/js/main.83cdebb4.js.map",
+    "488.6ef24605.chunk.js.map": "/react-draggable-list-component/static/js/488.6ef24605.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.83cdebb4.js"
+  ]
+}
